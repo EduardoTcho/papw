@@ -17,10 +17,9 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>EduardoTcho_papw</sonar.projectKey>
-  		<sonar.organization>eduardotcho</sonar.organization>
- 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  		<sonar.login>11a14d01c04fbf89a01e17b2d90d4e369c9dd18c</sonar.login>
+		<sonar.projectKey>edu</sonar.projectKey>
+ 		<sonar.host.url>http://ip172-18-0-49-brm25ljoudsg00ehc88g-9000.direct.labs.play-with-docker.com</sonar.host.url>
+  		<sonar.login>9148c6984ec959a032367a34d6a486c4a1d297c9</sonar.login>
 
 	</properties>
 
